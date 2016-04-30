@@ -10,7 +10,7 @@ exclude:
 # Site settings
 title: Documenting Texas Music
 subtitle: "Oral Histories, Images, Sound Recordings"
-email: blcentra@gmail.com
+email: schmidt.m.james@gmail.com
 name: Dr. Michael Schmidt
 description: >
   This site publishes the oral histories and interviews we conduct for the Texas Music Museum.
@@ -18,7 +18,7 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
+url: "http://schmidtmjames.github.io/" # the base hostname & protocol for your site
 cover: "/assets/cover.jpg"
 logo: "/assets/logo.jpg"
 

@@ -4,7 +4,7 @@ layout: post
 title:  "Alvin Fielder"
 date:   2016-04-25 08:43:59
 author: Michael Schmidt
-categories: Posts
+categories: Dummy
 ---
 
 ![Alvin Fielder](https://downtownmusic.net/images/5/5b2a417ec100e4017140aa7833d6e11b2a485f65.jpg)

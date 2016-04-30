@@ -50,7 +50,7 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: Posts
+  - cat: Dummy
     desc: "Past Interviews"
 
 # Social icons and sharing options

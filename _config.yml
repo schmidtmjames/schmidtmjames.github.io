@@ -50,8 +50,8 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: Posts
+    desc: "Past Interviews"
 
 # Social icons and sharing options
 #
@@ -92,8 +92,8 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Michael Schmidt
+    url: 
     desc: Connect with me on LinkedIn
     share: true
 

@@ -50,7 +50,7 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: Dummy
+  - cat: Oral Histories
     desc: "Past Interviews"
 
 # Social icons and sharing options
@@ -85,8 +85,8 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: schmidtmjames
+    url: https://github.com/schmidtmjames
     desc: Fork me on GitHub
     share: false
 

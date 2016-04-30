@@ -50,7 +50,7 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: Oral Histories
+  - cat: OralHistories
     desc: "Past Interviews"
 
 # Social icons and sharing options

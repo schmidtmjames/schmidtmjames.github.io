@@ -18,13 +18,13 @@ categories: Interviews
 
 <br>*Throughout our discussion, Mr. Fielder stressed the importance of environment. University jazz programs aren't the right environment for the progress of the music, he argued.* 
 
-*First of all, he contended, jazz's context was crucial to its origins:*
+*First of all, he contended, jazz's context was crucial to its origins:*<br>
 
 **AF:** This music...it's like magic. It just sprung up after slavery. There was no roots for it. African musicians aren't that good, not really. They were brought here to slavery. I guess the American experience really had a great deal to do with it. Only in America could this music be made. As Art Blakey said, only in America could this music could be created. Only, only in America. It wasn't created in Africa. Of course, you've gotten certain [African] things, but then you got the European side too. Especially the Italian thing and the Spanish thing.
 
 ----
 <br>
-*While discussing his own background, he also emphasized the crucial working environment of the generation of postwar bebop musicians that he came of age with:*
+*While discussing his own background, he also emphasized the crucial working environment of the generation of postwar bebop musicians that he came of age with: Rhythm and Blues.*
 
 <br>**AF:** I can remember when I was in high school...I lived in a very nice neighborhood...but going to school I had to pass through some other neighborhoods...I walked to school sometimes...I was usually driven to school, but you had those joints and those dives and the music was playing early in the morning. You would hear it. It's in the air. And then, of course, the juke boxes had jazz AND rhythm and blues on it. You'd get Charlie Parker being played, Dizzy Gillespie, all bebop stuff. Dizzy Gillespie's big band mainly, Charlie Parker's quintets. I didn't hear any Thelonious Monk, though [laughs]...I didn't hear any Bud Powell. Some other players: Earl Bostic's music and stuff. BUT when you think of the Earl Bostic band, think of it, think of who came out of that band. Do you know who came out of that band?
 

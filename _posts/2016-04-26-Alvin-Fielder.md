@@ -20,7 +20,7 @@ categories: Interviews
 
 *First of all, he contended, jazz's context was crucial to its origins:*
 
-**AF:** This music...it's like magic. It just sprung up after slavery. There was no roots for it. African musicians aren't that good, not really. They were brought here to slavery. I guess the American experience really had a great deal to do with it. Only in America could this music be made. As Art Blakey said, only in America could this music could be created. Only, only in America. It was created in Africa. Of course, you've gotten certain things, but then you got the European side too. Especially the Italian thing and the Spanish thing.
+**AF:** This music...it's like magic. It just sprung up after slavery. There was no roots for it. African musicians aren't that good, not really. They were brought here to slavery. I guess the American experience really had a great deal to do with it. Only in America could this music be made. As Art Blakey said, only in America could this music could be created. Only, only in America. It wasn't created in Africa. Of course, you've gotten certain [African] things, but then you got the European side too. Especially the Italian thing and the Spanish thing.
 
 ----
 <br>

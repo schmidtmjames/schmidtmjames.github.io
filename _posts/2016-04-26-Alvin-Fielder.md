@@ -8,23 +8,26 @@ categories: Interviews
 ---
 *Alvin Fielder currently resides in Jackson, MS, but spoke to me while he was in Austin performing at the February 2016 No Idea festival.*
 
-*Mr. Fielder moved to Houston in the mid-1950s to pursue a pharmacy degree at Texas Southern in the 3rd Ward. Although in his late teens, he quickly integrated himself into Houston jazz and rhythm and blues scenes. He became the drummer for Puma Davis, who led the band at the Eldorado, one of the elegant, postwar middle class black ballrooms in the Bayou city.* 
+*Mr. Fielder was born in Meridian, MS, but moved to Houston in the mid-1950s to pursue a pharmacy degree at Texas Southern in the 3rd Ward. Although in his late teens, he quickly integrated himself into Houston jazz and rhythm and blues scenes. He became the drummer for Puma Davis, who led the band at the Eldorado, one of the elegant, postwar middle class black ballrooms in the Bayou city.* 
 
 *Amongst many things, Mr. Fielder discussed the richness of the Houston R&B and bebop scene in Houston during the 1950s. Bebop was being played everywhere, he remembered, and the city was full of talent. Some musicians, like Arnett Cobb, already had a significant career and had returned home. Others went on to record for important labels and became (or were already a) part of the national--and international--story of jazz history: Don Wilkerson, Henry Boozier, Joe Sample, G.T. Hogan, Jimmy Harrison, Joe Curtis, and Richie Goldberg.*
 
 *Fielder noted that there were also significant local players who never came to the awareness of the public outside of Houston. J.D. Norris, a tenor saxophone player who played like early Sonny Rollins; Alexander Sample (Joe's brother), piano; and Perry Deal, a pianist who reminded Fielder of Muhal Richard Abrams and who he declared "was the most creative piano player to come out of Houston."*
 
+*He left Houston by the late 1950s and migrated north to Chicago. There, he played with the Sun Ra Arkestra and then, after a legendary stint with Roscoe Mitchell, he became a founding member of the AACM. After playing a crucial role in the Chicago avant-garde in the mid-to-late-1960s, he moved back to Mississipi. Since then he has kept up an active and important career as a elder statesman of free playing in the South.*
+
 ----
 
-<br>*Throughout our discussion, Mr. Fielder stressed the importance of environment. University jazz programs aren't the right environment for the progress of the music, he argued.* 
+<br>*Throughout our discussion, Mr. Fielder stressed the importance of environment. Although we spoke about a number of subjects, it was a thread that ran through the middle of our conversation.*
 
-*First of all, he contended, jazz's context was crucial to its origins:*<br>
+*First of all, he contended, jazz's context was crucial to its origins:*
 
-**AF:** This music...it's like magic. It just sprung up after slavery. There was no roots for it. African musicians aren't that good, not really. They were brought here to slavery. I guess the American experience really had a great deal to do with it. Only in America could this music be made. As Art Blakey said, only in America could this music could be created. Only, only in America. It wasn't created in Africa. Of course, you've gotten certain [African] things, but then you got the European side too. Especially the Italian thing and the Spanish thing.
+<br>
+**AF:** This music...it's like magic. It just sprung up after slavery. There was no roots for it. African musicians aren't that good, not really. They were brought here to slavery. I guess the American experience really had a great deal to do with it. Only in America could this music be made. As Art Blakey said, only in America could this music could be created. Only, only in America. It wasn't created in Africa. Of course, you've gotten certain [African] things, but then you got the European side too...especially the Italian thing and the Spanish thing.
 
 ----
 <br>
-*While discussing his own background, he also emphasized the crucial working environment of the generation of postwar bebop musicians that he came of age with: Rhythm and Blues.*
+*While discussing his own background, he also emphasized the crucial working environment of the generation of postwar bebop musicians that he came of age with:*
 
 <br>**AF:** I can remember when I was in high school...I lived in a very nice neighborhood...but going to school I had to pass through some other neighborhoods...I walked to school sometimes...I was usually driven to school, but you had those joints and those dives and the music was playing early in the morning. You would hear it. It's in the air. And then, of course, the juke boxes had jazz AND rhythm and blues on it. You'd get Charlie Parker being played, Dizzy Gillespie, all bebop stuff. Dizzy Gillespie's big band mainly, Charlie Parker's quintets. I didn't hear any Thelonious Monk, though [laughs]...I didn't hear any Bud Powell. Some other players: Earl Bostic's music and stuff. BUT when you think of the Earl Bostic band, think of it, think of who came out of that band. Do you know who came out of that band?
 

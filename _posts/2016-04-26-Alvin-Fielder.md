@@ -6,32 +6,44 @@ date:   2016-04-25 08:43:59
 author: Michael Schmidt
 categories: Interviews
 ---
-**Alvin Fielder spoke to me while he was in Austin performing at the February 2016 No Idea festival.**
+**Alvin Fielder spoke to me while he was in Austin performing at the February 2016 No Idea Festival.**
 
 ----
 
 <br>*Mr. Fielder is most well-known for his pioneering role in free jazz drumming during the 1960s, as a founding member of the seminal social-music group the AACM, and as one of the most important voices in the jazz avant-garde in the South since the 1970s. In addition to his importance as a musician, Mr. Fielder is also a keen observer of jazz history and a rich conversationalist.*
 
-*We spoke about a number of key segments in his life in music, including his early life in Mississippi and his time in Chicago with Sun Ra and Roscoe Mitchell. We also discussed his time in Texas during the 1950s. Throughout our discussion, Mr. Fielder stressed the importance of environment. Although we spoke about a number of subjects, it was a thread that ran through the center of our conversation.*
-
-*First of all, he contended, jazz's context was crucial to its origins:*
-
-<br>
-**AF:** This music...it's like magic. It just sprung up after slavery. There was no roots for it. African musicians aren't that good, not really. They were brought here to slavery. I guess the American experience really had a great deal to do with it. Only in America could this music be made. As Art Blakey said, only in America could this music could be created. Only, only in America. It wasn't created in Africa. Of course, you've gotten certain [African] things, but then you got the European side too...especially the Italian thing and the Spanish thing.
+*We spoke about a number of key segments in his life in music, including his early life in Mississippi and his career in Chicago with Sun Ra and Roscoe Mitchell. We also discussed his time in Texas during the 1950s. Although only a resident of Houston for a handful of years in the 1950s, he took in a great deal and his reflections on Texas music in those years were vivid and poignant. AF has continued his relationship with Houston musicians during the last decade and a half and his “Houston Quartet” includes David Dove, Jason Jackson, and Damon Smith.*
 
 ----
-<br>
-*While discussing his own background, he emphasized the crucial working environment of the generation of postwar bebop musicians that he came of age with: Rhythm and Blues. The world born from the intimate connection of R&B and modern jazz produced great, innovative players, he contended.*
+*Throughout, Mr. Fielder stressed the importance of environment. Although we spoke about a number of subjects, it was a thread that ran through the center of our conversation. AF stressed how crucial environment is to the development of musicians. He feels that the current university system, where students learn how to play jazz with a professor in a classroom, breaks with earlier periods and ultimately has a detrimental effect on the creativity of musicians.*
 
-<br>**AF:** I can remember when I was in high school...I lived in a very nice neighborhood...but going to school I had to pass through some other neighborhoods...I walked to school sometimes...I was usually driven to school...but you had those joints and those dives and the music was playing early in the morning. You would hear it. It's in the air. And then, of course, the juke boxes had jazz AND rhythm and blues on it. You'd get Charlie Parker being played, Dizzy Gillespie, all bebop stuff. Dizzy Gillespie's big band mainly, Charlie Parker's quintets. I didn't hear any Thelonious Monk, though [laughs]...I didn't hear any Bud Powell. Some other players: Earl Bostic's music and stuff. BUT when you think of the Earl Bostic band, think of it, think of who came out of that band. Do you know who came out of that band?
+*While discussing his own background, he emphasized how crucial Rhythm and Blues was as an environment for the early postwar generation of bebop musicians. The world born from the intimate connection of R & B and modern jazz produced great, innovative players, he contended.*
+
+<br>**AF**: The thing is, the kids today, their musical thing has been so saturated. If you look at the older musicians, especially back with the so-called modern musicians, the bebop players--at first there were no music schools teaching jazz. Jazz was a bastard course--you know: started in America by blacks, etc. You got a few schools, universities--Texas State and a few others...Schillinger. Once the music got into the schools, it stopped evolving. Think about it: you've had fifteen...sixteen...twelve innovators in jazz, period. I'm talking about who actually changed the music. It used to change every fifteen years, twenty years maybe: Ragtime, New Orleans music, Swing, bebop...you got into post-bop and then avant-garde. In a period of about 120 years, you've got about 6 changes. 
+
+But think about it---think about it seriously---it hasn't changed since the sixties. It hasn't changed since Coltrane, Ornette, and Cecil Taylor. It stood still. Of course, the average musician is a much better musician, but not creatively. They are much better musicians technically, MAYBE. But when you think about the trumpet players who came after Dizzy Gillespie---Kenny Dorham, Clifford Brown, Fats Navarro, Freddie Webster and all those guys---they didn't go to college. They didn't go to college to learn music. But think about all the creativity that they got.
+
+I can go back to the rhythm and blues bands of the forties, fifties, early sixties---most of the sidemen were bebop musicians. You think of the rhythm and blues of today---the musicianship just isn't there, not really. And you look at the trumpet players, saxophone players, they've got all the facility in the world, but they haven't created anything since the sixties.
+
+**MJS:** What do you think...
+
+**AF:** Caused it?
+
+**MJS:** Yeah, how do you think musicians were educated before?
+
+**AF:** Mentorship. Mentorship---the best way. Because this music, it was like magic. You could say it just sprung up after slavery. There was no roots for it. African musicians were brought over here to slavery and I think the American experience really had a great deal to do with it. As Art Blakey said, "only in America could this music have been created."
+
+I can remember when I was in high school: I lived in a very nice neighborhood, but going to school I had to pass through some other neighborhoods. I walked to school sometimes-- I was usually driven to school--but you had those joints and those dives and the music was playing early in the morning. You would hear it; it’s in the air. And then, of course, the jukeboxes had jazz AND rhythm and blues on it. You’d get Charlie Parker being played, Dizzy Gillespie, all bebop stuff. Dizzy Gillespie’s big band mainly, Charlie Parker’s quintets. I didn’t hear any Thelonious Monk, though [laughs]…I didn’t hear any Bud Powell. Some other players: Earl Bostic’s music and stuff. BUT when you think of the Earl Bostic band, think of it, think of who came out of that band. Do you know who came out of that band?
 
 **MJS:** Coltrane came out of that band.
 
-**AF:** That's just one. Stanley Turrentine, Wynton Kelly, Jimmy Cobb, G.T. Hogan, a bass player from Washington. He had all jazz musicians. Louis Jordan's band was the same way. When you think of B.B. King's band, it was all jazz musicians. Jimmy Merrit was in that band, George Coleman, Charles Lloyd. Think of Ray Charles's band: all jazz musicians. Ray Charles plays great alto. He's recorded two or three tracks...he really sounded great on alto. His piano playing was good. He sounded a lot like Nat King Cole at first...Jazz was the music. George Adams came through rhythm and blues. Sam Rivers, Hank Mobley, all those guys came through rhythm and blues. It was different. It's not like the rhythm and blues today. It started changing in the 60s: lesser musicianship. 
+**AF:** That’s just one. Stanley Turrentine, Wynton Kelly, Jimmy Cobb, G.T. Hogan, a bass player from Washington. He had all jazz musicians. Louis Jordan’s band was the same way. When you think of B.B. King’s band, it was all jazz musicians. Jymie Merritt was in that band, George Coleman, Charles Lloyd. Think of Ray Charles’s band: all jazz musicians. Ray Charles plays great alto. He’s recorded two or three tracks…he really sounded great on alto. His piano playing was good-- he sounded a lot like Nat King Cole at first.
 
-I can remember when I first saw B.B. King's band. All the bands would come to Meridian at least once a month. B.B. King would come through once a month. Ray Charles, Big Joe Turner, Gatemouth Brown. There was this route. I used to talk to these guys and the first first I talked to was Jimmy Merrit with B.B. King and he was the one who told me about Clifford Brown. Now this is about 1948, 1949. He told me about Philly Joe Jones and he told me about Jimmy Smith's drummer...those were the musicians he was talking about. 
+Jazz was the music. George Adams came through rhythm and blues. Sam Rivers, Hank Mobley, all those guys came through rhythm and blues. It was different. It’s not like the rhythm and blues today. It started changing in the sixties: lesser musicianship.
 
-There was this East Coast band, the Joe Morris band. Guess who was in it? Philly Joe Jones, Percy Heath, Johnny Griffin. All the great jazz musicians played in rhythm and blues bands except Jackie McLean and Sonny Rollins, probably. Think about it: it was a great starting factor because the rhythm and blues bands were swinging. They don't swing any more. Rhythm and Blues, of course, turned into rock later on. There's a difference in the rhythms, though.
+I can remember when I first saw B.B. King’s band. All the bands would come to Meridian at least once a month. B.B. King would come through once a month…Ray Charles, Big Joe Turner, Gatemouth Brown. There was this route. I used to talk to these guys and the first person I talked to was Jymie Merritt with B.B. King and he was the one who told me about Clifford Brown. Now this is about 1948, 1949. He told me about Philly Joe Jones and he told me about Jimmy Smith’s drummer…those were the musicians he was talking about.
+
+There was this East Coast band, the Joe Morris band. Guess who was in it? Philly Joe Jones, Percy Heath, Johnny Griffin. All the great jazz musicians played in rhythm and blues bands except Jackie McLean and Sonny Rollins, probably. Think about it: it was a great starting factor because the rhythm and blues bands were swinging. They don’t swing any more. Rhythm and Blues, of course, turned into rock later on. There’s a difference in the rhythms, though.
 
 <br>
 <audio controls>
@@ -56,9 +68,9 @@ A lot of great musicians came out of Meridian. Big Jimmy Cole called his band Ji
 **The Eldorado Ballroom, The Third Ward, Houston, Texas.**
 <br>
 
-*Amongst many things, Mr. Fielder discussed the musical richness of Houston's Third Ward while he was there. Bebop was being played everywhere, he remembered, and the city was full of talent. Some musicians, like Arnett Cobb, already had a significant career and had returned home. Others went on to record for important labels and became (or were already a) part of the national--and international--story of jazz history: Don Wilkerson, Henry Boozier, Joe Sample, G.T. Hogan, Jimmy Harrison, Joe Curtis, and Richie Goldberg.*
+*Amongst many things, Mr. Fielder discussed the musical richness of Houston's Third Ward while he was there. Bebop was being played everywhere, he remembered, and the city was full of talent. Some musicians, like Arnett Cobb, already had a significant career and had returned home. Others went on to record for important labels and became (or were already a) part of the documented national--and international--story of jazz history: Don Wilkerson, Henry Boozier, Joe Sample, G.T. Hogan, Jimmy Harrison, Joe Curtis, and Richie Goldberg.*
 
-*Fielder noted that there were also significant local players who never came to the awareness of the public outside of Houston. J.D. Norris, a tenor saxophone player who played like early Sonny Rollins; Alexander Sample (Joe's brother), piano; and Perry Deal, a pianist who reminded Fielder of Muhal Richard Abrams and who he declared "was the most creative piano player to come out of Houston."*  
+*Fielder noted that there were also significant local players who never came to the awareness of the public outside of Houston. J.D. Norris, a tenor saxophone player who played like early Sonny Rollins; Dickie Boy Lillie, who was Billy Harper's teacher; Alexander Sample (Joe's brother), piano; and Perry Deal, a pianist who reminded Fielder of Muhal Richard Abrams and who he declared "was the most creative piano player to come out of Houston." Johnny Browning, who Fielder played with in Pluma Davis's band and in Browning's own quartet, is most well known for playing trumpet with B.B. King's band.*  
 <br>
 <audio controls>
   <source src="/assets/Houston.mp3" type="audio/mpeg">
@@ -75,10 +87,11 @@ A lot of great musicians came out of Meridian. Big Jimmy Cole called his band Ji
 
 ----
 
-*Mr. Fielder left Houston in the late 1950s and migrated north to Chicago. There, he played with the Sun Ra Arkestra and then, after a legendary stint with Roscoe Mitchell, he became a founding member of the AACM (Association for the Advancement of Creative Musicians), one of the key musical-social groups of the 60s avant-garde.*<br>
+*Mr. Fielder left Houston in the late 1950s and migrated north to Chicago. There, he played with the Sun Ra Arkestra and then, after a legendary stint with Roscoe Mitchell, he became a founding member of the AACM (Association for the Advancement of Creative Musicians), one of the key musical-social groups of the sixties avant-garde.*<br>
 <br>
 
 <audio controls>
-  <source src="/assets/Roscoe.mp3" type="audio/mpeg">
+  <source src="/assets/MitchellAACM.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+**AF on meeting Roscoe Mitchell, recording** *Sound* **(1966), and the founding of the AACM.**
